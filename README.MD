@@ -12,6 +12,10 @@
 整体来说, 这个产品自是帮助你在微信客户端封禁的情况下, 聊微信更方便.
 如果有很多人有需求的话, 后面会考虑再继续更新维护
 
+预览图大概如下 : 
+
+<img width="779" alt="image" src="https://user-images.githubusercontent.com/1071075/168712349-e5022692-8a95-42e6-a155-7d50d58a2913.png">
+
 wechaty : https://github.com/wechaty/wechaty#readme
 
 token已经过期了, 需要你们自己去获取, 我用的是padLocal : https://wechaty.js.org/docs/puppet-services/padlocal
